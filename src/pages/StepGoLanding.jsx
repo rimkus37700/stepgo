@@ -1,4 +1,3 @@
-// src/pages/StepGoLanding.jsx
 const urlPack1 = "https://buy.stripe.com/test_link_pack1";
 const urlPack2 = "https://buy.stripe.com/test_link_pack2";
 const urlPack3 = "https://buy.stripe.com/test_link_pack3";
