@@ -1,10 +1,9 @@
-// src/pages/Legal.jsx
-export default function Legal() {
+﻿export default function Legal() {
   return (
     <div style={{ minHeight: "100vh", padding: 24, fontFamily: "system-ui, Arial", background: "#f8fafc", color: "#0f172a" }}>
       <div style={{ maxWidth: 900, margin: "0 auto", background: "#fff", borderRadius: 16, padding: 24, boxShadow: "0 6px 18px rgba(0,0,0,0.06)" }}>
         <h1 style={{ fontSize: 28, fontWeight: 800, marginBottom: 12 }}>Mentions légales & Contact</h1>
-        <p style={{ color: "#475569" }}>
+        <p style={{ color: "#475569", lineHeight: 1.6 }}>
           <strong>StepGo</strong> – Spray nettoyant semelles<br />
           Forme juridique : Auto-entrepreneur<br />
           SIRET : (à compléter)<br />
